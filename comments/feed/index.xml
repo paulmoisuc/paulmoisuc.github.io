@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarii la Paul Moisuc	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Doar un alt site web WordPress</description>
+	<lastBuildDate>Wed, 25 May 2022 20:57:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		Comentariu la Salut lume! de Un comentator WordPress		</title>
+		<link>/2022/05/25/salut-lume/#comment-1</link>
+
+		<dc:creator><![CDATA[Un comentator WordPress]]></dc:creator>
+		<pubDate>Wed, 25 May 2022 20:57:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+
+					<description><![CDATA[Bună, acesta este un comentariu.
+Pentru a începe moderarea, editarea și ștergerea comentariilor, te rog să mergi la ecranul Comentarii din panoul de control.
+Avatarele comentatorilor provin de la &lt;a href=&quot;https://ro.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Bună, acesta este un comentariu.<br />
+Pentru a începe moderarea, editarea și ștergerea comentariilor, te rog să mergi la ecranul Comentarii din panoul de control.<br />
+Avatarele comentatorilor provin de la <a href="https://ro.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
